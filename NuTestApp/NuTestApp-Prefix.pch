@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'NuTestApp' target in the 'NuTestApp' project
+//
+
+#ifdef __OBJC__
+    #import <Cocoa/Cocoa.h>
+#endif
